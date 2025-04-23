@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">swipe-kart</string>
+    <string name="title_activity_main">swipe-kart</string>
+    <string name="package_name">com.swipekart.app</string>
+    <string name="custom_url_scheme">com.swipekart.app</string>
+</resources>
